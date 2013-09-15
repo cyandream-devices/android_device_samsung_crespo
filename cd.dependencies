@@ -1,0 +1,17 @@
+[
+    {
+      "repository": "CyanogenMod/android_kernel_samsung_crespo",
+      "target_path": "kernel/samsung/crespo",
+      "branch": "cm-10.2"
+    },
+    {
+        "repository": "CyanogenMod/android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "branch": "cm-10.2"
+    },
+    {
+        "repository": "CyanDreamProject/android_vendor_samsung_maguro",
+        "target_path": "vendor/samsung/maguro",
+        "branch": "cm-10.2"
+    }
+]
