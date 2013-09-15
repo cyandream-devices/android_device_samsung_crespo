@@ -11,7 +11,7 @@ $(call inherit-product, device/samsung/crespo/full_crespo.mk)
 # Enhanced NFC
 $(call inherit-product, vendor/cyandream/config/nfc_enhanced.mk)
 
-PRODUCT_NAME := cm_crespo
+PRODUCT_NAME := cd_crespo
 PRODUCT_DEVICE := crespo
 PRODUCT_BRAND := Google
 PRODUCT_MODEL := Nexus S
